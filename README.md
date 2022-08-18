@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)](https://paterne.io)
 <h1 align="center">Hi 👋, I'm HARELIMANA Elisee Paterne</h1>
-<h3 align="center">A passionate Full-Stack Developer 😎</h3>
+<h3 align="center">A passionate Full-Stack Developer from Rwanda 😎 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
