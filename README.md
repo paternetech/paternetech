@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/paternetech" target="blank"><img src="https://img.shields.io/twitter/follow/paternetech?logo=twitter&style=for-the-badge" alt="paternetech" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend & Backend Project **
+- 🔭 I’m currently working on **Fullstack Project **
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **more....**
 
 - 👯 I’m looking to collaborate on **any project**
 
@@ -19,9 +19,6 @@
 - 💬 Ask me about **Everything tech related, I'am happy to help**
 
 - 📫 How to reach me **reesltd16@gmail.com**
-
-- 📄 Know about my experiences [https://eu.docworkspace.com/d/sIEq7wO6uAd-XxZcG](https://eu.docworkspace.com/d/sIEq7wO6uAd-XxZcG)
-
 - ⚡ Fun fact **I'am funny**
 
 <h3 align="left">Connect with me:</h3>
