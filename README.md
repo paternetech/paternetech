@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)](https://paterne.io)
+[![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.g)](https://paterne.io)
 <h1 align="center">Hi 👋, I'm HARELIMANA Elisee Paterne</h1>
 <h3 align="center">A passionate Full-Stack Developer from Rwanda 😎 </h3>
 
