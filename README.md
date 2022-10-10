@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 👨‍💻 All of my projects are available at Portfolio
+- 👨‍💻 All of my projects are available On Portfolio
 
 - 💬 Ask me about **Everything tech related, I'am happy to help**
 
